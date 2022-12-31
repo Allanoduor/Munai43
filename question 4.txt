@@ -1,0 +1,27 @@
+//question 4 task one
+//how to find multiples of 2,3,7'
+ class multiples {
+    public static void main(String[] args) {
+        System.out.println("/n divided by 2");
+        for(int num=71;num<150; num++){
+            if(num%2==0)
+            System.out.println(num+",");
+            }
+            
+             System.out.println("/n divided by 3");
+             for(int num=71;num<150; num++){
+            if(num%3==0)
+            System.out.println(num+",");
+             }
+            
+             System.out.println("/n divided by 7");
+             for(int num=71;num<150; num++){
+            if(num%7==0)
+            System.out.println(num+",");
+             }
+            
+            System.out.println("/n");
+    
+        
+    }
+}
