@@ -1,5 +1,5 @@
-/* gerald manyasa
-    21/05029 */
+/* allan oduor
+    21/08059 */
 // question 2
 #include <stdio.h>
 int main()
